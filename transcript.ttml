@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-US" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:00.000" end="00:00:02.440">Hey guys, welcome back to another video today.</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:02.440" end="00:00:04.724">We're going to be doing a review of the Walmart</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:04.773" end="00:00:07.835">plus features that they just implemented or the Walmart grocery</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:07.884" end="00:00:08.710">delivery service.</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:08.710" end="00:00:11.408">Now this video is not sponsored but if you guys</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:11.466" end="00:00:14.164">would like $10 off on your first order over $50</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:14.221" end="00:00:16.690">too afraid to use my Walmart referral link,</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:16.690" end="00:00:18.970">you'll get $10 and I'll also get $10.</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:18.970" end="00:00:21.484">OK, so all you have to do is download the</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:21.545" end="00:00:24.794">Walmart app on your phone and your start screen after</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:24.856" end="00:00:25.530">you log in.</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:25.530" end="00:00:26.950">Should look something like this.</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:26.950" end="00:00:29.885">You'll have the option of pickup and delivery or to</p>
+
+      <!-- Confidence: 0.8817807 -->
+      <p begin="00:00:29.942" end="00:00:30.230">shop.</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:30.230" end="00:00:34.113">On walmart.com, so you're going to click on pickup and</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:34.185" end="00:00:37.637">delivery an already have it set up to deliver to</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:37.709" end="00:00:38.500">my address,</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:38.500" end="00:00:40.760">which I will be censoring out.</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:40.760" end="00:00:44.140">Now you could see that Walmart Plus is here,</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:44.140" end="00:00:47.150">so we're going to Click to learn more,</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:47.150" end="00:00:50.686">and we're going to sign up for the 15 day</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:50.772" end="00:00:51.290">trial.</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:51.290" end="00:00:54.670">As you could see, you could get unlimited deliveries,</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:54.670" end="00:00:56.930">member prices on fuel, and more,</p>
+
+      <!-- Confidence: 0.88387233 -->
+      <p begin="00:00:56.930" end="00:01:00.400">only at $12.95 per month or $98 per year.</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:00.400" end="00:01:03.150">Evidently, Walmart plus pays for itself after two deliveries,</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:03.150" end="00:01:06.021">which I could test it because I was looking at</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:06.083" end="00:01:06.520">prices.</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:06.520" end="00:01:09.270">If I wanted something delivered to me without Walmart.</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:09.270" end="00:01:11.720">Plus it cost anywhere between 8:00 and $10,</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:11.720" end="00:01:14.844">you can shop with the same everyday low prices that</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:14.905" end="00:01:16.620">you would find at the store,</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:16.620" end="00:01:19.347">and if you wanted to check to see if this</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:19.414" end="00:01:21.210">was available in your area,</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:21.210" end="00:01:24.120">you would just type in your address right there and</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:24.177" end="00:01:25.490">click on check address.</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:25.490" end="00:01:27.940">So my address is available for this feature,</p>
+
+      <!-- Confidence: 0.8755088 -->
+      <p begin="00:01:27.940" end="00:01:31.070">so I'm going to start my 15 day free trial.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:31.070" end="00:01:34.024">Now confirm my address free unlimited delivery from groceries to</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:34.070" end="00:01:34.670">gadgets here.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:34.670" end="00:01:36.470">Today are everyday low prices etc.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:36.470" end="00:01:39.230">And you could even have the mobile scan and go</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:39.290" end="00:01:39.770">feature.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:39.770" end="00:01:42.451">So if you wanted to just go to Walmart you</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:42.515" end="00:01:45.642">could scan each item with your phone and just pay</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:45.706" end="00:01:48.770">out with Walmart Pay which is pretty cool if you</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:48.770" end="00:01:51.770">want to go into just get one item real quick.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:51.770" end="00:01:54.638">We're going to try the month to month after the</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:54.699" end="00:01:55.370">free trial.</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:55.370" end="00:01:57.911">Start Walmart for free so I have a 15 day</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:01:57.973" end="00:02:01.196">free trial which is what we're testing this out with</p>
+
+      <!-- Confidence: 0.8457378 -->
+      <p begin="00:02:01.258" end="00:02:02.870">extended child to 30 days.</p>
+
+      <!-- Confidence: 0.849220216666667 -->
+      <p begin="00:02:02.870" end="00:02:06.179">Answer 3. Questions so that war cost could work harder</p>
+
+      <!-- Confidence: 0.849220216666667 -->
+      <p begin="00:02:06.240" end="00:02:06.730">for you.</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:06.730" end="00:02:08.630">Alright, let's extend it still happens,</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:08.630" end="00:02:11.470">including you. How many people live in your home?</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:11.470" end="00:02:14.310">Do you share your home with kind of subscriptions?</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:14.310" end="00:02:15.890">Do you already have OK?</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:15.890" end="00:02:18.444">So now instead of 15 days I have 30 days</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:18.508" end="00:02:21.892">and those are very very easy questions so continue to</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:21.955" end="00:02:22.530">benefits.</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:22.530" end="00:02:25.456">OK, so now that I have signed up for Walmart</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:25.522" end="00:02:28.514">plus I could reserve a time so let's see what</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:28.581" end="00:02:30.110">times I have available.</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:30.110" end="00:02:32.960">At this point I'm recording this at 8:30 AM,</p>
+
+      <!-- Confidence: 0.8499167 -->
+      <p begin="00:02:32.960" end="00:02:34.920">so my earliest delivery time for.</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:34.920" end="00:02:37.410">Today would be at 1:00 PM to 2:00 PM,</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:37.410" end="00:02:39.350">so we're going to click on that.</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:39.350" end="00:02:42.120">So about five hours later so you can plan ahead.</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:42.120" end="00:02:44.753">Maybe plan for the next day if you want delivery</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:44.808" end="00:02:47.660">for the following day for like a party or something.</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:47.660" end="00:02:50.430">So let's see what we have available to us here.</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:50.430" end="00:02:52.930">As you could see, you could even get bananas,</p>
+
+      <!-- Confidence: 0.8891595 -->
+      <p begin="00:02:52.930" end="00:02:54.266">eggs, milk, bread, water.</p>
+    </div>
+  </body>
+</tt>
